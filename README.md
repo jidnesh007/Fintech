@@ -43,8 +43,16 @@ An AI-driven financial management application designed to help individuals and b
 ![Screenshot 2025-03-29 215406](https://github.com/user-attachments/assets/3c1b6f19-7305-42a7-ab3f-3d134e0e486b)
 
  
-#Multi-Platform Integration
+# Multi-Platform Integration
 ![Screenshot 2025-03-29 230744](https://github.com/user-attachments/assets/1064ed75-539b-4374-bd03-8e2b2ffeb4ca)
+
+
+# Tax Calculator
+![Screenshot 2025-03-29 231547](https://github.com/user-attachments/assets/d5826271-0895-469c-a66d-e3def2100c9b)
+
+
+# Debt Tracker
+![Screenshot 2025-03-29 231430](https://github.com/user-attachments/assets/61e76397-d68d-41e7-9f37-af8e9fe2db68)
 
 
 
