@@ -22,13 +22,16 @@ An AI-driven financial management application designed to help individuals and b
 # AI-Based Automated Bookkeeping
 ![Screenshot 2025-03-29 214743](https://github.com/user-attachments/assets/2e80df96-1671-4494-aeb3-ede606b104b9)
 
-**Personalized Financial Insights & Budgeting**
+ 
+# Personalized Financial Insights & Budgeting
 ![Screenshot 2025-03-29 215033](https://github.com/user-attachments/assets/6a76516f-e7a6-4db0-86e9-672a32e7c0a0)
 
-**Automated Tax Calculation & Filing**
+
+# Automated Tax Calculation & Filing
 ![Screenshot 2025-03-29 215102](https://github.com/user-attachments/assets/fec2ba19-3da3-41d5-a35c-f72d28660fc5)
 
-**Smart Investment & Savings Advisor Chat-Bot**
+
+# Smart Investment & Savings Advisor Chat-Bot
 ![Screenshot 2025-03-29 230432](https://github.com/user-attachments/assets/7ec92037-740e-431f-b852-b2b481b7397a)
 
 ![Screenshot 2025-03-29 214808](https://github.com/user-attachments/assets/07a49407-e16f-4106-915a-09ce40c3aad9)
@@ -36,10 +39,11 @@ An AI-driven financial management application designed to help individuals and b
 ![Screenshot 2025-03-29 214859](https://github.com/user-attachments/assets/051554aa-6e1d-49b8-95a9-08f8167a6290)
 
 
-**Fraud & Anomaly Detection**
+# Fraud & Anomaly Detection
 ![Screenshot 2025-03-29 215406](https://github.com/user-attachments/assets/3c1b6f19-7305-42a7-ab3f-3d134e0e486b)
 
-**Multi-Platform Integration**
+ 
+#Multi-Platform Integration
 ![Screenshot 2025-03-29 230744](https://github.com/user-attachments/assets/1064ed75-539b-4374-bd03-8e2b2ffeb4ca)
 
 
