@@ -98,23 +98,23 @@ API_KEY=your-api-key
 ### 4️⃣ Run the application
 #### Backend:
 ```bash
-cd server
+cd Backend
 npm start
 ```
 #### Frontend:
 ```bash
-cd client
+cd Frontend
 npm run dev
 ```
 
 ## 🎯 Real-Life Use Cases
-### Freelancer Financial Management (Example: Aditi, Graphic Designer)
+### Freelancer Financial Management
 - Automates income tracking, generates invoices, and calculates tax deductions.
 
-### Small Business Expense Tracking (Example: Rahul, Startup Owner)
+### Small Business Expense Tracking 
 - Syncs with business bank accounts, tracks daily expenses, and provides financial reports.
 
-### Smart Budgeting for Individuals (Example: Meera, IT Professional)
+### Smart Budgeting for Individuals 
 - Analyzes transactions, suggests spending limits, and offers customized budget plans.
 
 ## 📌 Future Enhancements
