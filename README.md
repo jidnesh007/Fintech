@@ -19,6 +19,11 @@ An AI-driven financial management application designed to help individuals and b
 - **AI Integration:** Python (for AI-based analytics and insights)
 - **Authentication:** JWT-based authentication
 
+
+# Home Page
+![Screenshot 2025-03-29 214704](https://github.com/user-attachments/assets/a4a13e8f-1215-4211-965d-22abfd0d9b17)
+
+
 # AI-Based Automated Bookkeeping
 ![Screenshot 2025-03-29 214743](https://github.com/user-attachments/assets/2e80df96-1671-4494-aeb3-ede606b104b9)
 
